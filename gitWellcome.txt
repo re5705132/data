@@ -1,3 +1,4 @@
 הפקודות הן:
 git init
 pwd
+git config --global
